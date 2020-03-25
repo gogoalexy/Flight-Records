@@ -4,6 +4,7 @@
 :::info
 - **Location:** Somewhere
 - **Date:** MMM DD, YYYY HH:MM (UTC+N)
+- **Cloud cover:** ?/8
 - **Wind speed:** Average ?? m/s; Gust ?? m/s
 - **Drone:** Which drone you flew?
 - **Mission**
